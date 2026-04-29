@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="DNS-Zone-Exporter-Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 20px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #542344;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #542344;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        font-size: 100px;
+      }
+
+      .cls-6, .cls-2 {
+        fill: #f5dd8f;
+      }
+
+      .cls-7 {
+        font-size: 257px;
+      }
+
+      .cls-2 {
+        stroke-width: 40px;
+      }
+
+      .cls-3 {
+        font-family: HelveticaNeue-CondensedBlack, 'Helvetica Neue';
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <circle class="cls-6" cx="500" cy="500" r="500"/>
+  <g id="Small-Circles">
+    <circle class="cls-1" cx="734.63" cy="734.63" r="108.24"/>
+    <circle class="cls-1" cx="265.37" cy="265.37" r="108.24"/>
+  </g>
+  <circle id="Large-Circle" class="cls-2" cx="500" cy="500" r="296.47"/>
+  <text class="cls-3" transform="translate(281.17 529.9)"><tspan class="cls-7"><tspan x="0" y="0">DNS</tspan></tspan><tspan class="cls-5"><tspan x="7.78" y="120">EXPO</tspan><tspan class="cls-4" x="220.68" y="120">R</tspan><tspan x="276.28" y="120">TER</tspan></tspan></text>
+</svg>
