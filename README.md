@@ -1,2 +1,2 @@
-# dns-zone-exporter-template
-Simple HTML table template built for selecting HTML table elements within DNS record pages using DevTools and dumping the contents into a local file for safekeeping and reference.
+# DNS Zone Exporter Template
+Simple HTML table template built for selecting HTML table elements within DNS record pages using DevTools and dumping the contents into a local file for safekeeping and reference. Please keep in mind that this is just a template and not an automated process. You must find and select the HTMl tables yourself within the DNS Zone / DNS records page of your domain registrar. This is just an easy way to keep that information organized in a neat manner since not all registrars offer the feature of exporting DNS records as a document.
