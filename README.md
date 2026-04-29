@@ -11,4 +11,4 @@ If you want to create multiple DNS record exports that belong to different domai
 
 ## "This is a very manual solution..."
 
-Yes, I am aware that this is a very manual solution. This should only be used in the event that your domain registrar does not natively support the exporting of DNS records.
+Yes, I am aware that this is a very manual solution. This should only be used in the event that your domain registrar does not natively support the exporting of DNS records. Automating this process would involve writing Python scripts, messing around with APIs of a dozen registrars, and trying to make sure secret variables are stored properly. If you want to build something more automated though as a container for Docker, that would be pretty cool and I'll be cheering you on! :)
