@@ -9,6 +9,6 @@ To get the time and date for whenever you exported the DNS Record simply use the
 
 If you want to create multiple DNS record exports that belong to different domain registrars or are associated with different projects and organizations, simply duplicate index and rename it to something else. If you want to simply export multiple DNS records for a list of domains that a single entity owns with a single registrar then you do not need to duplicate the index file.
 
-## This Is a Very Manual Solution
+## "This is a very manual solution..."
 
 Yes, I am aware that this is a very manual solution. This should only be used in the event that your domain registrar does not natively support the exporting of DNS records.
